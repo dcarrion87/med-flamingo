@@ -1,11 +1,8 @@
 # Med-Flamingo  
 
-<img src="img/logo.png" width="100">
+Adapted from https://github.com/snap-stanford/med-flamingo
 
-This is the code repo for the [Med-Flamingo paper](https://arxiv.org/abs/2307.15189).
-
-More updates to follow soon! 
-
+[Med-Flamingo paper](https://arxiv.org/abs/2307.15189).
 
 
 ## Setup  
